@@ -15,8 +15,30 @@
     width: 400px;
     display: block;
     margin-left: auto;
+    line-height: 24px;
+    border: 1px solid #dfe1ef;
     margin-right: auto;
+    border-radius: 24px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
+.btn{
+right: auto;
+    
+    padding: 6px 14px 8px 14px;
+    margin-top: 25px;
+    background-color: #dfe1e5;
+    border: 1px solid #dfe1e5;
+    border-radius: 4px;
+    color: black;
+    margin-left: 10px;
+}
 
+.btn-wrapper{
+    display: flex;
+    justify-content: center;
 
+}
