@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+
+
+.red{
+    background-color: #c71226;
+    /* margin-bottom: 100px; */
+    /* margin-bottom: 15px; if margins are collapsing the margin attribute with the larger value will be applied  */
+   height: 100px;
+}
+
+.blue{
+    background-color: #0d1b88;
+    height: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.green{
+    background: #397327;
+    height: 100px;
+}
